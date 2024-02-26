@@ -5,6 +5,9 @@
 
 ### <div align="center">I'm Wertoquri, a web and game developer</div>  
   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  <br> 
+
+
 
 - ✨ I'm currently learning Node Js and C#  
   
@@ -13,14 +16,15 @@
   
 
 - 🤞 I have projects, so I advise you to take a look  
-  
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 <br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -33,7 +37,7 @@
 </div>
 
 </td><td valign="top" width="33%">
-
+ 
 
 
 ### Backend  
@@ -49,6 +53,7 @@
 
 
 ### What will I teach later?  
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a>  
@@ -60,7 +65,9 @@
 <br/>  
 
 
-## Connect with me  
+
+### Connect with me  
+
 <div align="center">
 <a href="https://github.com/Wertoquri" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -99,5 +106,4 @@
 <br/> 
 
 
-----
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
