@@ -103,6 +103,9 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31i3vdrt7xxzr4ayvillz6apxgka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
+
+❗only when i'm online❗
+
 <br/> 
 
 
