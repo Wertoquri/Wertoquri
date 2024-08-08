@@ -106,8 +106,9 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31i3vdrt7xxzr4ayvillz6apxgka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31i3vdrt7xxzr4ayvillz6apxgka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=09ff00)](https://github.com/kittinan/spotify-github-profile) 
 
+<br/> 
 
 ❗only when i'm online❗
 
