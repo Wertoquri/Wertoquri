@@ -99,9 +99,21 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wertoquri&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br/> 
 
+## Top languages 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/> 
 
+<br/>
+
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
+
+
+
