@@ -100,17 +100,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wertoquri&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## What am I listening to?
-<br/>  
-  
-
-<br/>  
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31i3vdrt7xxzr4ayvillz6apxgka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=09ff00)](https://github.com/kittinan/spotify-github-profile) 
-
-<br/> 
-
-❗only when i'm online❗
 
 <br/> 
 
