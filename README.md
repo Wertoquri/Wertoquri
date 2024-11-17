@@ -9,7 +9,7 @@
 
 
 
-- ✨ I'm currently learning Node Js and C#  
+- ✨ I'm currently learning C#  
   
 
 - ❓ I also studied various libraries for JavaScript, I also know how to write APIs  
