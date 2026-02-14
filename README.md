@@ -8,15 +8,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  <br> 
 
 
-
-- ✨ I'm currently learning C#, backend 
+- ✨ I'm currently learning C#, backend  
   
 
 - ❓ I also studied various libraries for JavaScript, I also know how to write APIs, servers
   
 
 - 🤞 I have projects, so I advise you to take a look  
-
+  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
@@ -43,7 +42,6 @@
 </td><td valign="top" width="33%">
  
 
-
 ### Backend  
 <div align="center">  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" height="75" /></a>
@@ -56,9 +54,7 @@
   
 </div>
 
-
 </td><td valign="top" width="33%">
-
 
 
 ### What will I teach later?  
@@ -73,7 +69,6 @@
 <br/>  
 
 
-
 ### Connect with me  
 
 <div align="center">
@@ -84,13 +79,17 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>  
-  
+ 
 
 <br/>  
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Wertoquri&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wertoquri" alt="Wertoquri's profile" />
+  </a>
+</div>  
 
 <br/>  
 
@@ -101,19 +100,18 @@
 
 <br/> 
 
-## Top languages 
+## Top languages  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wertoquri&layout=pie" alt="Top languages" />
+  </a>
+</div>
 
-<br/> 
+<br/>  
 
 <br/>
-
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-
-
-
-
