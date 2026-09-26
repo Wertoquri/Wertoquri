@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Kyrylo Poidiuk — developer portfolio</title>
+<desc id="desc">An editorial dark banner with vivid violet and aqua orbital artwork.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset=".54" stop-color="#11182b"/><stop offset="1" stop-color="#0b1320"/></linearGradient>
+  <linearGradient id="ink" x2="1" y2="0"><stop stop-color="#f8fbff"/><stop offset="1" stop-color="#cdd9ef"/></linearGradient>
+  <linearGradient id="beam" x2="1" y2="1"><stop stop-color="#9c7cff"/><stop offset=".5" stop-color="#54e4e4"/><stop offset="1" stop-color="#e8ff96"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#7b61ff" stop-opacity=".4"/><stop offset="1" stop-color="#7b61ff" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#c9d6f1" stroke-opacity=".055"/></pattern>
+  <clipPath id="frame"><rect width="1200" height="390" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="390" fill="url(#bg)"/><rect width="1200" height="390" fill="url(#grid)"/>
+  <circle cx="974" cy="192" r="285" fill="url(#glow)"/>
+  <path d="M0 0H1200V390H0Z" fill="none" stroke="#8799be" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M730 42H1160M730 348H1160" stroke="#a8b9d9" stroke-opacity=".18"/>
+  <text x="72" y="68" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="5" fill="#7ee7e3">PORTFOLIO / 2026</text>
+  <text x="70" y="163" font-family="Arial,Helvetica,sans-serif" font-size="72" font-weight="800" letter-spacing="-3" fill="url(#ink)">KYRYLO</text>
+  <text x="70" y="240" font-family="Arial,Helvetica,sans-serif" font-size="72" font-weight="800" letter-spacing="-3" fill="url(#ink)">POIDIUK<tspan fill="#9c7cff">.</tspan></text>
+  <path d="M74 272H564" stroke="url(#beam)" stroke-width="3" stroke-linecap="round"/>
+  <text x="72" y="315" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#b9c9e1">Building for the web, systems &amp; play.</text>
+  <text x="72" y="353" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3" fill="#7f94b4">FULL-STACK DEVELOPMENT  /  CREATIVE CODE</text>
+  <g transform="translate(944 194)">
+    <circle r="139" fill="none" stroke="#ab9cff" stroke-opacity=".22" stroke-width="1.5"/>
+    <circle r="107" fill="none" stroke="#82e8e4" stroke-opacity=".3" stroke-width="1.5"/>
+    <circle r="72" fill="#131e34" stroke="url(#beam)" stroke-width="3"/>
+    <path d="M-33 3L-6 -26M-33 3L-5 33M7 -28L37 0L7 30" fill="none" stroke="url(#beam)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="-133" cy="-42" r="7" fill="#a88fff"/><circle cx="101" cy="-94" r="5" fill="#7de9e7"/><circle cx="108" cy="88" r="8" fill="#e8ff96"/>
+    <path d="M-138 -42L-105 -20M101 -94L78 -73M108 88L76 66" stroke="#b5c5e6" stroke-opacity=".5"/>
+    <path d="M-172 16H-130M146 -31H186M-23 -159V-140" stroke="#b5c5e6" stroke-opacity=".3"/>
+  </g>
+  <text x="734" y="64" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3" fill="#8ea2c2">DESIGN × ENGINEERING</text>
+</g></svg>

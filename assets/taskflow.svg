@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="232" viewBox="0 0 560 232" role="img" aria-labelledby="title desc">
+<title id="title">TASKFLOW</title><desc id="desc">Portfolio project artwork for TASKFLOW.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#121a2b"/><stop offset="1" stop-color="#0b1120"/></linearGradient><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#ac94ff"/><stop offset="1" stop-color="#72e4e3"/></linearGradient></defs>
+<rect width="560" height="232" rx="18" fill="url(#bg)"/><rect x=".5" y=".5" width="559" height="231" rx="17.5" fill="none" stroke="#7790b5" stroke-opacity=".35"/>
+<path d="M24 189H536" stroke="#637797" stroke-opacity=".32"/>
+<text x="26" y="34" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#ac94ff">04 / SELECTED WORK</text>
+<text x="26" y="91" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800" letter-spacing="-1" fill="#f5f8ff">TASKFLOW</text>
+<text x="27" y="118" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#a5b8d2">Team collaboration platform</text>
+<g transform="translate(385 45)"><rect x="0" y="0" width="139" height="121" rx="8" fill="#1e2b43" stroke="#7187ae"/><path d="M0 24H139" stroke="#7187ae"/><rect x="10" y="37" width="35" height="58" rx="4" fill="#836ff5"/><rect x="51" y="37" width="36" height="37" rx="4" fill="#376f84"/><rect x="93" y="37" width="35" height="69" rx="4" fill="#345e68"/><path d="M15 104H40M56 83H81M98 114H122" stroke="#8aa4c6" stroke-width="4" stroke-linecap="round"/></g>
+<text x="27" y="213" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" fill="#8498b7">W E R T O Q U R I</text>
+<path d="M493 205H527M519 197L527 205L519 213" fill="none" stroke="#ac94ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

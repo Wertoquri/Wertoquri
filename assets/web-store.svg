@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="232" viewBox="0 0 560 232" role="img" aria-labelledby="title desc">
+<title id="title">WEB-STORE</title><desc id="desc">Portfolio project artwork for WEB-STORE.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#121a2b"/><stop offset="1" stop-color="#0b1120"/></linearGradient><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#ae91ff"/><stop offset="1" stop-color="#72e4e3"/></linearGradient></defs>
+<rect width="560" height="232" rx="18" fill="url(#bg)"/><rect x=".5" y=".5" width="559" height="231" rx="17.5" fill="none" stroke="#7790b5" stroke-opacity=".35"/>
+<path d="M24 189H536" stroke="#637797" stroke-opacity=".32"/>
+<text x="26" y="34" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#ae91ff">01 / SELECTED WORK</text>
+<text x="26" y="91" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800" letter-spacing="-1" fill="#f5f8ff">WEB-STORE</text>
+<text x="27" y="118" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#a5b8d2">Full-stack commerce</text>
+<g transform="translate(391 48)"><rect width="136" height="116" rx="9" fill="#1e2941" stroke="#8b9bc1" stroke-opacity=".5"/><path d="M0 25H136" stroke="#8b9bc1" stroke-opacity=".5"/><circle cx="14" cy="13" r="3" fill="#a68cff"/><circle cx="25" cy="13" r="3" fill="#7de4de"/><circle cx="36" cy="13" r="3" fill="#e9ff9a"/><rect x="12" y="38" width="52" height="62" rx="5" fill="#a68cff" opacity=".88"/><rect x="72" y="38" width="52" height="24" rx="5" fill="#344766"/><path d="M77 75H119M77 86H111M77 97H103" stroke="#8fa8ce" stroke-width="4" stroke-linecap="round"/></g>
+<text x="27" y="213" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" fill="#8498b7">W E R T O Q U R I</text>
+<path d="M493 205H527M519 197L527 205L519 213" fill="none" stroke="#ae91ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

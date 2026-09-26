@@ -1,134 +1,81 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/hero.svg" alt="Kyrylo Poidiuk — building for the web, systems and play" width="100%" />
+</p>
 
-<img src="https://avatars.githubusercontent.com/u/111075377?s=96&v=4" height="130"/>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/111075377?s=200&v=4" width="88" alt="Kyrylo Poidiuk" />
+</p>
 
-<h1>Wertoquri</h1>
+<h1 align="center">Hi, I'm Kyrylo 👋</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;Game+Developer;API+Builder;Always+Learning" />
+<p align="center">
+  Full-stack developer in Kyiv, Ukraine.<br />
+  I build thoughtful interfaces, practical developer tools, and games worth playing.
+</p>
 
-<p>🚀 Building apps, games & backend systems</p>
-
-<img src="https://komarev.com/ghpvc/?username=Wertoquri&label=Profile+views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-## 🧠 About Me
-
-- 💻 Web & Game Developer  
-- ⚙️ Frontend, Backend & GameDev  
-- 🚀 Learning **C# / .NET / Architecture**  
-- 🔥 Building real-world projects  
-- 🎯 Focused on growth  
-
----
-
-## ⚒️ Tech Stack
-
-### 🎨 Frontend
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50"/>
-
-
-
-</div>
+<p align="center">
+  <a href="https://portfolio-nine-lovat-87.vercel.app/">Explore my portfolio ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Wertoquri?tab=repositories">Browse my code ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://instagram.com/wertoquri">Instagram ↗</a>
+</p>
 
 ---
 
-### ⚙️ Backend
-<div align="center">
+### A little about my work
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50"/>
+I enjoy the whole journey from first sketch to working product: shaping an interface, connecting the API, designing the data model, and polishing the details. My work moves between **web products**, **engineering tools**, and **game development**.
 
-</div>
+Currently exploring **C# / .NET** and software architecture while building with **React, TypeScript, Node.js, and PostgreSQL**.
 
----
+## Selected work
 
-### 🗄️ Databases
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Wertoquri/WEB-store"><img src="./assets/web-store.svg" alt="WEB-store project card" width="100%" /></a>
+      <br /><strong>WEB-store</strong> — a full-stack storefront with accounts, cart, checkout, reviews, and an admin workspace. Built with React, Express, Prisma, and PostgreSQL.
+      <br /><a href="https://github.com/Wertoquri/WEB-store">Repository ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Wertoquri/ARCHGUARD"><img src="./assets/archguard.svg" alt="ARCHGUARD project card" width="100%" /></a>
+      <br /><strong>ARCHGUARD</strong> — an architecture policy and risk engine for JavaScript and TypeScript repositories, with a dependency graph and CI findings.
+      <br /><a href="https://github.com/Wertoquri/ARCHGUARD">Repository ↗</a> · <a href="https://archguard.vercel.app/">Live site ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Wertoquri/nordline-studio"><img src="./assets/nordline.svg" alt="Nordline Studio project card" width="100%" /></a>
+      <br /><strong>Nordline Studio</strong> — a bilingual interior design website with project stories, clear service journeys, and responsive layouts.
+      <br /><a href="https://github.com/Wertoquri/nordline-studio">Repository ↗</a> · <a href="https://nordline-studio-kyiv.vercel.app/">Live site ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Wertoquri/TaskFlow"><img src="./assets/taskflow.svg" alt="TaskFlow project card" width="100%" /></a>
+      <br /><strong>TaskFlow</strong> — a bilingual team workspace with Kanban boards, roles, invitations, notifications, and real-time chat.
+      <br /><a href="https://github.com/Wertoquri/TaskFlow">Repository ↗</a>
+    </td>
+  </tr>
+</table>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
+## What I work with
 
-</div>
+| Area | Tools |
+| :-- | :-- |
+| **Interfaces** | React · TypeScript · JavaScript · HTML · CSS · Sass |
+| **APIs & data** | Node.js · Express · Prisma · PostgreSQL · MySQL · MongoDB |
+| **Game development** | Unity · C# |
+| **Workflow** | Git · GitHub · Docker · Linux · VS Code |
 
----
+## Beyond the browser
 
-### 🛠️ Tools & DevOps
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
-
-</div>
-
----
-
-### 🎮 Game Development
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
-
-</div>
-
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wertoquri" />
-
-</div>
+I also like building interactive worlds. Take a look at [Fishing Simulator 3D](https://github.com/Wertoquri/Fishing-simulator3D), [RoboStars](https://github.com/Wertoquri/RoboStars), and [TowerDefense](https://github.com/Wertoquri/TowerDefense).
 
 ---
 
-## 📈 Activity
+<p align="center">
+  <strong>Have an idea to build together?</strong><br />
+  <a href="https://portfolio-nine-lovat-87.vercel.app/">Start with my portfolio ↗</a>
+</p>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wertoquri&theme=tokyo-night" />
-
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-<a href="https://github.com/Wertoquri">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://instagram.com/wertoquri">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-🔥 *Build every day. No excuses.*
-
-</div>
+<p align="center"><sub>Made with curiosity, code, and a good eye for detail.</sub></p>
