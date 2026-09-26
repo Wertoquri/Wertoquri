@@ -14,7 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-nine-lovat-87.vercel.app/">Explore my portfolio ↗</a>
+  <a href="https://portfolio-nine-lovat-87.vercel.app/">Developer portfolio ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://botanic-portfolio.vercel.app/#top">Botanic portfolio ↗</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Wertoquri?tab=repositories">Browse my code ↗</a>
   &nbsp;·&nbsp;
@@ -75,7 +77,9 @@ I also like building interactive worlds. Take a look at [Fishing Simulator 3D](h
 
 <p align="center">
   <strong>Have an idea to build together?</strong><br />
-  <a href="https://portfolio-nine-lovat-87.vercel.app/">Start with my portfolio ↗</a>
+  <a href="https://portfolio-nine-lovat-87.vercel.app/">Developer portfolio ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://botanic-portfolio.vercel.app/#top">Botanic portfolio ↗</a>
 </p>
 
 <p align="center"><sub>Made with curiosity, code, and a good eye for detail.</sub></p>
